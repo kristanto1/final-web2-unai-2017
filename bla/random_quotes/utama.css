@@ -1,0 +1,44 @@
+body{
+  background: rgb(0,0,0);
+  
+}
+.padding-keseluruhan{
+  padding-bottom : 5%;
+  padding-left : 5%;
+  padding-top : 5%;
+  padding-right : 5%;
+  margin-bottom: 100px;
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-right: 100px;
+}
+
+.padding-keseluruhan2{
+  padding-bottom : 0;
+  padding-left : 0;
+  padding-top : 0;
+  padding-right : 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-top: 0;
+  margin-right: 0;
+}
+
+.transparan{
+  opacity : 0.5;
+}
+
+.bagidua{
+  width: 80%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items:flex-start;
+}
+
+.text-hitam{
+  color: black;
+}
+.text-putih{
+  color: white;
+}
